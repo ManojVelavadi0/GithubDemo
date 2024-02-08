@@ -1,2 +1,3 @@
 # GithubDemo
-This is repository to demonstrate usage of github234
+This is repository to demonstrate usage of github
+
